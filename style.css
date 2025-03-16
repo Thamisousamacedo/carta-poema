@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  padding: 30px;
+}
+
+body {
+  background-image: url(céu.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#assinatura {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 10px;
+}
